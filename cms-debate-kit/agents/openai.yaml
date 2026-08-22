@@ -2,4 +2,3 @@ interface:
   display_name: "CMS Debate Kit"
   short_description: "발췌문 기반 토론 수업 자료와 인용 검증을 만듭니다"
   default_prompt: "$cms-debate-kit을 사용해 발췌문 기반 논제, 근거카드, 활동지, 루브릭을 만들고 인용을 문단 번호와 대조해 검증해 주세요."
-
