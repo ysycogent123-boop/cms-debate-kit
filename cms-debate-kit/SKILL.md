@@ -87,4 +87,3 @@ After finishing, summarize the number of created or changed files and their fina
 | Absolute path | Created or updated | What the user should verify |
 
 Also state whether quotation fidelity, paragraph numbering, excerpt-only evidence, original preservation, and `결과물` placement passed validation.
-
